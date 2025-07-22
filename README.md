@@ -14,7 +14,7 @@ A simple and interactive command-line calculator built with Python. Supports bas
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.0
 
 ### Running the Program
 
